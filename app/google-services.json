@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29692622080",
+    "project_id": "quickbite-9284c",
+    "storage_bucket": "quickbite-9284c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29692622080:android:fbbdfc80b2d36ac18dafe5",
+        "android_client_info": {
+          "package_name": "com.example.foodyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8CoSMXB5kp3VVpCQrhHqRpO_NBDyl3FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

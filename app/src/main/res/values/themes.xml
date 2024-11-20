@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFF2CC</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+    </style>
+    <style name="textStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/league_spartan</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="textStyle_bold" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/league_spartan_bold</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Spinner.DropDown.ActionBar">
+        <item name="fontFamily">@font/league_spartan</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>
